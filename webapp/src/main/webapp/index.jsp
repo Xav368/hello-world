@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Merci Xavier </h1>
+   <h1>Merci Xavier le Waraba </h1>
 
   
 </form>
